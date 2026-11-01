@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.idea/
+.streamlit/secrets.toml
+# Large raw artifacts (regenerate with build_artifacts.py / the notebook)
+similarity.pkl
+*.stackdump
